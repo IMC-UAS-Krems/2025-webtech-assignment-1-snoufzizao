@@ -95,7 +95,6 @@ main {
 
 .gallery img:hover {
   transform: scale(1.05);
-  img;
 
 }
 
@@ -148,7 +147,5 @@ footer {
 
 
 .logo{
-  border-radius: 8px;
-  box-shadow: inset;
-  
+  border-radius: 8px;  box-shadow: inset;
 }
